@@ -8,7 +8,7 @@
 
 * Description: Have visitors search top level domains from your site and send them to your reseller store.
 
-* Version: 1.0
+* Version: 1.1
 
 * Author: Victor Noyes
 
