@@ -1,0 +1,73 @@
+/* Domain Search Form Style
+
+
+
+========================================== */
+
+
+
+div.hds_wrap_h {
+
+text-align: center;
+
+}
+
+
+
+div.hds_wrap {
+
+max-width:525px;
+
+background: #Fff;
+
+font-size:17px;
+
+text-align: center;
+
+margin-left: auto;
+
+margin-right: auto;
+
+border: 1px solid #B9B9B9;
+
+padding: 2px 2px;
+
+border-radius: 7px;
+
+-o-border-radius: 7px;
+
+-moz-border-radius: 7px;
+
+-webkit-border-radius: 7px;
+
+}
+
+
+
+div.hds_wrap_2 {
+
+max-width:660px;
+
+background: #Fff;
+
+font-size:17px;
+
+text-align: left;
+
+margin-left: auto;
+
+margin-right: auto;
+
+border: 1px solid #B9B9B9;
+
+padding: 5px 5px;
+
+border-radius: 7px;
+
+-o-border-radius: 7px;
+
+-moz-border-radius: 7px;
+
+-webkit-border-radius: 7px;
+
+}
