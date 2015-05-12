@@ -22,7 +22,7 @@ You will have access to resale Hosting, Domains, SSL, Email and more!
 You and your Resellers can modify the HTML, CSS and images of the website using an easy-to-use point-and-click Content Management System, allowing excellent scope for customization.
 Multi-lingual - All content of the Site is translation-friendly.
           
-                     <a href="http://wpplugin.hyper.domains/" target="_blank">Plugin Site</a> | <a href="http://wpplugin.hyper.domains/plugin-support/" target="_blank">Support Page</a>| <a href="http://hyperdomains.myorderbox.com/" target="_blank">Reseller Login</a> 
+
 
 == Installation ==
 
