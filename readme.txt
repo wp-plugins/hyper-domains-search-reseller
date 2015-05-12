@@ -63,6 +63,11 @@ Yes. But you would need to modify the code and are free to do so.
 * First version.
 
 = 1.1 =
-* Added Page header and search page icon. 
+* Added Page header and search page icon.
+
+= 1.2 =
+* Revised the readme.txt file.  
+
+
 
 
