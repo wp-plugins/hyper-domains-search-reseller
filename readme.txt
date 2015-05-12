@@ -1,8 +1,8 @@
 === Hyper Domains Search Form ===
-Contributors: Victor Noyes
+Contributors: Fla0
 Tags: domain search, hyper.domains, domains, TLD, top level domain, search for domains, domain search form, resellerclub, enom
 Requires at least: 3.0
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
