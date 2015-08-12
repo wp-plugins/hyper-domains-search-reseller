@@ -17,7 +17,13 @@ Features:
  * If you have an Hyper.Domains re-seller account or sub re-seller account you can add your Reseller domain.
  
  * You can sign-up for a reseller account here:  <a href="http://resellers.hyper.domains/reseller.php?action=show_signupform">Create a Reseller Account!</a>
- 
+
+ * Hyper.Domains Resellerclub includes a multi-tier separate private-labeled copy of our site. Your Resellers, their Resellers and so on can manage a beautiful retail business.
+You will have access to resale Hosting, Domains, SSL, Email and more!
+You and your Resellers can modify the HTML, CSS and images of the website using an easy-to-use point-and-click Content Management System, allowing excellent scope for customization.
+Multi-lingual - All content of the Site is translation-friendly.
+          
+                     <a href="http://wpplugin.hyper.domains/" target="_blank">Plugin Site</a> | <a href="http://wpplugin.hyper.domains/plugin-support/" target="_blank">Support Page</a>| <a href="http://hyperdomains.myorderbox.com/" target="_blank">Reseller Login</a> 
 
 == Installation ==
 
